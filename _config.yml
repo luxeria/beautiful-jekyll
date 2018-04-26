@@ -4,12 +4,12 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
-baseurl: ""
+#url: "http://username.github.io"
+#baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
+url: "https://luxeria.github.io/lux-beautiful-jekyll"
+baseurl: "/lux-beautiful-jekyll"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -26,8 +26,8 @@ navbar-links:
   Über uns: "aboutme"
   Mitmachen: "standort"
   Verein:
-    - Statuten: "http://deanattali.com/beautiful-jekyll/"
-    - Kontakt: "http://www.markdowntutorial.com/"
+    - Statuten: "statuten.html"
+    - Kontakt: "kontakt.html"
   Wiki: "http://wiki.luxeria.ch"
 
 # Image to show in the navigation bar - image must be a square (width = height)
