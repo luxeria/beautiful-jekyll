@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Über uns
+subtitle: Der Hackerspace in Luzern!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Open-Source, Technik und Wissensaustausch ist das, was unser Verein ausmacht. Wir sind im Raum Luzern angesiedelt und bieten als einziger Verein in der Region den regelmässigen Austausch in diesem Bereich. Unser wöchentliches Treffen dreht sich rund um Vorträge, Projekte oder den generellen Wissensaustausch. Interesse geweckt? Dann melde dich doch bei uns!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Der Vorstand
+ **Präsidentin:** Anja Zimmermann
 
-What else do you need?
+ **Vize Präsident und Aktuar:** Raphael Theiler
 
-### my history
+ **Kassier:** Daniel Winz 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+ **Infrastruktur:** Michael Sprecher 
+
+ **Event-Manager:** Sebastian Wicki 
+ 
+

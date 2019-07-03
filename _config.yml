@@ -10,11 +10,11 @@
 # If you are building a GitHub project page then use these settings:
 url: "https://luxeria.github.io/lux-beautiful-jekyll"
 baseurl: "/lux-beautiful-jekyll"
-
+email: "zimmermann.anja@outlook.com"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Luxeria
+title: LuXeria
 
 # Short description of your site
 description: Hackerspace im Raum Luzern
@@ -26,8 +26,8 @@ navbar-links:
   Über uns: "aboutme"
   Mitmachen: "standort"
   Verein:
-    - Statuten: "statuten.html"
-    - Kontakt: "kontakt.html"
+    - Statuten: "https://github.com/luxeria/luxstat/blob/master/luxstat.pdf"
+    - Kontakt: "kontakt"
   Wiki: "http://wiki.luxeria.ch"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Anja Zimmermann
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -72,10 +72,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  email: "zimmermann.anja@outlook.com"
+  github: "luxeria"
+  twitter: "LuXeria_Luzern"
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -99,7 +98,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "LuXeria.ch"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
